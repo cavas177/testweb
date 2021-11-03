@@ -1,9 +1,9 @@
 {
-    "name": "nginx",
-    "description": "nginx",
-    "repository": "https://github.com/nhjp0/nginx",
+    "name": "testweb",
+    "description": "testweb",
+    "repository": "https://github.com/cavas177/testweb",
     "logo": "https://play-lh.googleusercontent.com/muSOyE55_Ra26XXx2IiGYqXduq7RchMhosFlWGc7wCS4I1iQXb7BAnnjEYzqcUYa5oo=s180-rw",
-    "keywords": ["nginx"],
+    "keywords": ["docker"],
     "stack": "container",
 	"env": {
       "APP_NAME" : {
