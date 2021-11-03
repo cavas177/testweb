@@ -7,7 +7,7 @@
     "stack": "container",
 	"env": {
       "APP_NAME" : {
-        "description": "App_Name.",
+        "description": "App",
                 "value" : "",
         "required" : true
         }	
